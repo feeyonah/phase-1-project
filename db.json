@@ -1,0 +1,91 @@
+{
+  "meals": [
+    {
+      "id": 1,
+      "name": "Chicken Curry",
+      "foodItems": ["Chicken", "Onion", "Curry Powder", "Chilli Powder", "Salt"],
+      "instructions": [
+        "Heat the fat.",
+        "Brown the onion.",
+        "Add in the curry powder, chilli powder, salt, and stir.",
+        "Fry until golden brown."
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Spaghetti Bolognese",
+      "foodItems": ["Spaghetti", "Ground Beef", "Tomato Sauce", "Onion", "Garlic", "Olive Oil", "Salt", "Black Pepper"],
+      "instructions": [
+        "Boil the spaghetti until al dente.",
+        "In a separate pan, sauté the garlic and onion in olive oil.",
+        "Add the ground beef and cook until browned.",
+        "Pour in the tomato sauce and simmer for 10 minutes.",
+        "Serve the Bolognese sauce over the cooked spaghetti."
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Vegetable Stir-Fry",
+      "foodItems": ["Broccoli", "Carrots", "Bell Peppers", "Mushrooms", "Soy Sauce", "Garlic", "Ginger", "Sesame Oil"],
+      "instructions": [
+        "Cut the vegetables into bite-sized pieces.",
+        "In a wok or pan, heat sesame oil and sauté garlic and ginger.",
+        "Add the vegetables and stir-fry until tender-crisp.",
+        "Season with soy sauce and serve hot."
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Beef Stir-Fry",
+      "foodItems": ["Beef", "Broccoli", "Bell Peppers", "Carrots", "Onion", "Garlic", "Soy Sauce", "Sesame Oil"],
+      "instructions": [
+        "Slice the beef into thin strips.",
+        "In a wok or pan, heat sesame oil and sauté garlic.",
+        "Add the beef and stir-fry until cooked.",
+        "Add the vegetables and continue to stir-fry until tender.",
+        "Season with soy sauce and serve hot."
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Salmon with Lemon Butter Sauce",
+      "foodItems": ["Salmon Fillets", "Butter", "Lemon Juice", "Garlic", "Parsley", "Salt", "Black Pepper"],
+      "instructions": [
+        "Season the salmon fillets with salt and black pepper.",
+        "In a pan, melt the butter and sauté garlic.",
+        "Add lemon juice and parsley to the butter.",
+        "Pan-fry the salmon fillets until cooked through.",
+        "Serve with the lemon butter sauce."
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Mushroom Risotto",
+      "foodItems": ["Arborio Rice", "Mushrooms", "Onion", "Garlic", "Vegetable Broth", "Parmesan Cheese", "Butter", "White Wine", "Parsley", "Salt", "Black Pepper"],
+      "instructions": [
+        "In a pan, sauté garlic and onion in butter.",
+        "Add the arborio rice and cook until lightly toasted.",
+        "Add white wine and cook until absorbed.",
+        "Gradually add vegetable broth, stirring until rice is creamy.",
+        "Stir in mushrooms, parsley, and Parmesan cheese.",
+        "Season with salt and black pepper.",
+        "Serve the mushroom risotto hot."
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Grilled Vegetables",
+      "foodItems": ["Zucchini", "Bell Peppers", "Eggplant", "Cherry Tomatoes", "Olive Oil", "Balsamic Vinegar", "Garlic", "Basil", "Salt", "Black Pepper"],
+      "instructions": [
+        "Slice the vegetables into thick slices.",
+        "In a bowl, mix olive oil, balsamic vinegar, minced garlic, and chopped basil.",
+        "Marinate the vegetables in the mixture.",
+        "Grill the vegetables until tender and lightly charred.",
+        "Season with salt and black pepper.",
+        "Serve the grilled vegetables as a side dish."
+      ]
+    }
+  ]
+}
+
+  
