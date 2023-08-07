@@ -13,8 +13,8 @@ Whether you're a cooking enthusiast or just looking to simplify your meal planni
 - HTML, CSS, JavaScript for the frontend
 - JSON Server for handling recipe data
 - Fetch API for making requests to the JSON Server
- ## Installation
-1. Clone the repository
+## Installation
+1. Clone the repository:git@github.com:feeyonah/phase-1-project.git
 2. Navigate to the project directory
 3. Install dependencies (if applicable): `npm install`
 4. Start the JSON Server for data: `json-server --watch db.json`
