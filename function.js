@@ -29,3 +29,18 @@ fetchData('http://localhost:3000/meals')
       mealsList.appendChild(li);
     });
   });
+  document.addEventListener('DOMContentLoaded', () => {
+    const myButton = document.getElementById('my-button');
+    myButton.addEventListener('click', () => {
+      
+      alert('Button clicked!');
+    });
+  
+    const myForm = document.getElementById('my-form');
+    myForm.addEventListener('submit', (event) => {
+      event.preventDefault(); 
+      const inputText = document.getElementById('input-text').value;
+      console.log(`User entered: ${inputText}`);
+    });
+  });
+  
