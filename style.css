@@ -85,4 +85,28 @@ main {
   color: white;
   text-align: center;
 }
+#my-button{
 
+  display: block;
+  width: 150px;
+  padding: 10px 20px;
+  background-color: red;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-right: 10px;
+}
+#my-form{
+
+
+  display: flex;
+  justify-content: center;
+  border-radius: 5px;
+  cursor: pointer;
+
+
+
+}
